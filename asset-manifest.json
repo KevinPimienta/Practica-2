@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/firebasepractica2/static/css/main.e7ee17b4.chunk.css",
+    "main.js": "/firebasepractica2/static/js/main.18ad034e.chunk.js",
+    "main.js.map": "/firebasepractica2/static/js/main.18ad034e.chunk.js.map",
+    "runtime-main.js": "/firebasepractica2/static/js/runtime-main.b7f20891.js",
+    "runtime-main.js.map": "/firebasepractica2/static/js/runtime-main.b7f20891.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/firebasepractica2/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.b4f1de20.chunk.js": "/firebasepractica2/static/js/2.b4f1de20.chunk.js",
+    "static/js/2.b4f1de20.chunk.js.map": "/firebasepractica2/static/js/2.b4f1de20.chunk.js.map",
+    "static/js/3.14efd7ab.chunk.js": "/firebasepractica2/static/js/3.14efd7ab.chunk.js",
+    "static/js/3.14efd7ab.chunk.js.map": "/firebasepractica2/static/js/3.14efd7ab.chunk.js.map",
+    "index.html": "/firebasepractica2/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/firebasepractica2/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.e7ee17b4.chunk.css.map": "/firebasepractica2/static/css/main.e7ee17b4.chunk.css.map",
+    "static/js/2.b4f1de20.chunk.js.LICENSE.txt": "/firebasepractica2/static/js/2.b4f1de20.chunk.js.LICENSE.txt",
+    "static/media/pokeball.ed58ec53.png": "/firebasepractica2/static/media/pokeball.ed58ec53.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7f20891.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.b4f1de20.chunk.js",
+    "static/css/main.e7ee17b4.chunk.css",
+    "static/js/main.18ad034e.chunk.js"
+  ]
+}
